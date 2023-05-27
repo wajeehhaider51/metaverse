@@ -1,0 +1,27 @@
+
+#heading{
+    text-align: center;
+    background-color: darkgray;
+    height: 50px;
+}
+  .scale-item {
+    width: 100%;
+    height: 50px;
+    text-align: center;
+  }
+  
+  .scale-item-0 { background-color: red;  }
+  .scale-item-1 { background-color: orange; }
+  .scale-item-2 { background-color: yellow; }
+  .scale-item-3 { background-color: lime; }
+  .scale-item-4 { background-color: lightgreen; }
+  .scale-item-5 { background-color: green; }
+  .scale-item-6 { background-color: aqua; }
+  .scale-item-7 { background-color: deepskyblue; }
+  .scale-item-8 { background-color: blue; }
+  .scale-item-9 { background-color: darkblue; }
+  .scale-item-10 { background-color: purple; }
+  .scale-item-11 { background-color: magenta; }
+  .scale-item-12 { background-color: orchid; }
+  .scale-item-13 { background-color: pink; }
+  .scale-item-14 { background-color: lightpink; }
